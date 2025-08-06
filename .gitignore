@@ -46,7 +46,7 @@ phpunit.phar
 /api/web/robots.txt
 
 # uploads
-#/frontend/web/uploads
+/frontend/web/uploads
 
 logs
 
