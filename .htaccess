@@ -1,0 +1,19 @@
+Options -Indexes
+IndexIgnore */*
+
+Options FollowSymLinks
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteEngine On
+
+RewriteRule ^api(/.+)?$ api/web/$1 [L,PT]
+RewriteRule ^api/(.+)?$ api/web/$1 [L,PT]
+
+RewriteRule ^panel(/.+)?$ backend/web/$1 [L,PT]
+RewriteRule ^panel/(.+)?$ backend/web/$1 [L,PT]
+
+RewriteRule ^template(/.+)?$ frontend/web/template/$1 [L]
+
+RewriteRule ^(.+)?$ frontend/web/$1

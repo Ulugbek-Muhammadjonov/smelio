@@ -1,0 +1,764 @@
+﻿<table border="1" cellspacing="0" cellpadding="3"
+       style="text-align: left; align-items: center;display: none;width: 100%!important;"
+       class="table table-bordered table-striped">
+    <tr>
+        <td style="vertical-align: middle; text-align: left">Aksessuar</td>
+        <td style="vertical-align: middle; text-align: left">Sana</td>
+        <td style="vertical-align: middle; text-align: left">Narx</td>
+        <td style="vertical-align: middle; text-align: left">Miqdori</td>
+        <td style="vertical-align: middle; text-align: left">Umumiy summa</td>
+    </tr>
+    <tr>
+        <td colspan="5"></td>
+    </tr>
+                <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 09:55:05</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:18:07</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">19 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:18:12</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:18:20</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 3</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:21:34</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">19 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:22:26</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">40 Dona</td>
+            <td style="vertical-align: middle; text-align: left">140 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 10:22:35</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 11:57:09</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">4 kg</td>
+            <td style="vertical-align: middle; text-align: left">152 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 13:31:20</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">19 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Chiganok</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 14:58:20</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+            <td style="vertical-align: middle; text-align: left">3 Dona</td>
+            <td style="vertical-align: middle; text-align: left">36 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 14:58:31</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+            <td style="vertical-align: middle; text-align: left">4 Dona</td>
+            <td style="vertical-align: middle; text-align: left">16 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 14:59:50</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.1 kg</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 15:24:20</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">7 Dona</td>
+            <td style="vertical-align: middle; text-align: left">24 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 15:24:30</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.3 kg</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 15:43:31</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 16:29:27</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">2 kg</td>
+            <td style="vertical-align: middle; text-align: left">76 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">23.12.2022 16:30:54</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">2 kg</td>
+            <td style="vertical-align: middle; text-align: left">80 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 11:28:19</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">5 Dona</td>
+            <td style="vertical-align: middle; text-align: left">17 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 11:28:26</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Tashqi burchak</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 13:07:37</td>
+            <td style="vertical-align: middle; text-align: left">8 000</td>
+            <td style="vertical-align: middle; text-align: left">12 Dona</td>
+            <td style="vertical-align: middle; text-align: left">96 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 13:13:28</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 13:29:14</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">20 Dona</td>
+            <td style="vertical-align: middle; text-align: left">90 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 13:29:33</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">3 Dona</td>
+            <td style="vertical-align: middle; text-align: left">9 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 13:29:49</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 16:22:56</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">18 Dona</td>
+            <td style="vertical-align: middle; text-align: left">63 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 16:23:27</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 16:23:33</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">24.12.2022 16:23:39</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 09:11:39</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">20 Dona</td>
+            <td style="vertical-align: middle; text-align: left">70 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:10:16</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+            <td style="vertical-align: middle; text-align: left">7 Dona</td>
+            <td style="vertical-align: middle; text-align: left">28 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:10:28</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+            <td style="vertical-align: middle; text-align: left">3 Dona</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:23:08</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">50 Dona</td>
+            <td style="vertical-align: middle; text-align: left">175 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:23:20</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">8 Dona</td>
+            <td style="vertical-align: middle; text-align: left">24 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:23:25</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">4 Dona</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:23:37</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">70 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:24:09</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+            <td style="vertical-align: middle; text-align: left">8 Dona</td>
+            <td style="vertical-align: middle; text-align: left">32 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Perexodnik</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 10:24:22</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:17:53</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">65 Dona</td>
+            <td style="vertical-align: middle; text-align: left">292 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:18:05</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:18:14</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">4 Dona</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:18:27</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:18:34</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">5 kg</td>
+            <td style="vertical-align: middle; text-align: left">190 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:48:33</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">25 Dona</td>
+            <td style="vertical-align: middle; text-align: left">87 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 11:49:15</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 13:06:40</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">160 Dona</td>
+            <td style="vertical-align: middle; text-align: left">720 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 13:06:47</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">4 Dona</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 15:35:36</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">60 Dona</td>
+            <td style="vertical-align: middle; text-align: left">270 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Chiganok</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 15:36:06</td>
+            <td style="vertical-align: middle; text-align: left">14 000</td>
+            <td style="vertical-align: middle; text-align: left">6 Dona</td>
+            <td style="vertical-align: middle; text-align: left">84 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 15:36:11</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">10 Dona</td>
+            <td style="vertical-align: middle; text-align: left">30 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 15:36:18</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">70 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">25.12.2022 15:36:24</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 09:09:38</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">15 kg</td>
+            <td style="vertical-align: middle; text-align: left">570 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 09:09:43</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Nasadka</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 09:09:47</td>
+            <td style="vertical-align: middle; text-align: left">5 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">10 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 09:51:23</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">12 Dona</td>
+            <td style="vertical-align: middle; text-align: left">54 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez temir 5</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 09:52:12</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">57 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 10:17:32</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">8 kg</td>
+            <td style="vertical-align: middle; text-align: left">304 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 10:17:41</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:00:43</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">18 Dona</td>
+            <td style="vertical-align: middle; text-align: left">54 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:00:53</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:01:08</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 3</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:03:32</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">19 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:05:42</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:48:31</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">16 Dona</td>
+            <td style="vertical-align: middle; text-align: left">56 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:48:36</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">26.12.2022 12:48:40</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 09:09:37</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 13:44:06</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">19 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 14:28:43</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">20 Dona</td>
+            <td style="vertical-align: middle; text-align: left">70 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 14:28:49</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 14:28:57</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 14:29:04</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 08:23:42</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 15:48:54</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 15:49:01</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 15:49:10</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 15:49:25</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">5 Dona</td>
+            <td style="vertical-align: middle; text-align: left">22 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 3</td>
+            <td style="vertical-align: middle; text-align: left">27.12.2022 15:50:34</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">1.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">6 750</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 3</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:01:00</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">2.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">95 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:30:50</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">92 Dona</td>
+            <td style="vertical-align: middle; text-align: left">414 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:30:58</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">70 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:31:15</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:31:26</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">6 Dona</td>
+            <td style="vertical-align: middle; text-align: left">18 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:31:41</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.3 kg</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 10:51:15</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">65 Dona</td>
+            <td style="vertical-align: middle; text-align: left">292 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:10:16</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.75 kg</td>
+            <td style="vertical-align: middle; text-align: left">30 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:38:16</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">6 Dona</td>
+            <td style="vertical-align: middle; text-align: left">18 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:38:12</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:38:01</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">125 Dona</td>
+            <td style="vertical-align: middle; text-align: left">437 500</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:38:30</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.3 kg</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 11:40:52</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Samarez 5</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 13:52:04</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+            <td style="vertical-align: middle; text-align: left">1 kg</td>
+            <td style="vertical-align: middle; text-align: left">38 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 13:52:08</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.25 kg</td>
+            <td style="vertical-align: middle; text-align: left">10 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 13:52:12</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.25 kg</td>
+            <td style="vertical-align: middle; text-align: left">10 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 16:37:15</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.125 kg</td>
+            <td style="vertical-align: middle; text-align: left">5 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">QOZIQ</td>
+            <td style="vertical-align: middle; text-align: left">28.12.2022 16:49:45</td>
+            <td style="vertical-align: middle; text-align: left">4 000</td>
+            <td style="vertical-align: middle; text-align: left">6 Dona</td>
+            <td style="vertical-align: middle; text-align: left">24 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 09:10:13</td>
+            <td style="vertical-align: middle; text-align: left">4 500</td>
+            <td style="vertical-align: middle; text-align: left">80 Dona</td>
+            <td style="vertical-align: middle; text-align: left">360 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:33:26</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">40 Dona</td>
+            <td style="vertical-align: middle; text-align: left">140 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:33:30</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">3 Dona</td>
+            <td style="vertical-align: middle; text-align: left">9 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Chiganok</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:33:34</td>
+            <td style="vertical-align: middle; text-align: left">12 000</td>
+            <td style="vertical-align: middle; text-align: left">3 Dona</td>
+            <td style="vertical-align: middle; text-align: left">36 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:33:40</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Germetika</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:33:46</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+            <td style="vertical-align: middle; text-align: left">1 Dona</td>
+            <td style="vertical-align: middle; text-align: left">35 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Semechka</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 10:34:07</td>
+            <td style="vertical-align: middle; text-align: left">40 000</td>
+            <td style="vertical-align: middle; text-align: left">0.5 kg</td>
+            <td style="vertical-align: middle; text-align: left">20 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Stakan</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 11:18:21</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Yopqich</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 11:18:25</td>
+            <td style="vertical-align: middle; text-align: left">3 000</td>
+            <td style="vertical-align: middle; text-align: left">2 Dona</td>
+            <td style="vertical-align: middle; text-align: left">6 000</td>
+        </tr>
+                    <tr>
+            <td style="vertical-align: middle; text-align: left">Temir kamar</td>
+            <td style="vertical-align: middle; text-align: left">29.12.2022 11:23:29</td>
+            <td style="vertical-align: middle; text-align: left">3 500</td>
+            <td style="vertical-align: middle; text-align: left">25 Dona</td>
+            <td style="vertical-align: middle; text-align: left">87 500</td>
+        </tr>
+                <tr>
+        <td style="vertical-align: middle; text-align: left"></td>
+        <td style="vertical-align: middle; text-align: left"></td>
+        <td style="vertical-align: middle; text-align: left"></td>
+        <td style="vertical-align: middle; text-align: left"></td>
+        <td style="vertical-align: middle; text-align: left">7 143 750</td>
+    </tr>
+</table>
+
