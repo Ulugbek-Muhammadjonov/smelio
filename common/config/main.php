@@ -13,7 +13,7 @@ return [
     'vendorPath' => dirname(__DIR__, 2) . '/vendor',
     'bootstrap' => ['gii'],
     'language' => 'uz',
-    'name' => 'Tikuv Sexi',
+    'name' => 'Smelio boshqaruv paneli',
     'components' => [
         'log' => [
             'traceLevel' => YII_DEBUG ? 3 : 0,

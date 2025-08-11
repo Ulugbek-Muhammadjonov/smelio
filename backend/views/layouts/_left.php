@@ -2,25 +2,46 @@
 
 use soft\widget\adminlte3\Menu;
 use yii\helpers\Url;
+use yii\web\View;
+
+/* @var $this View */
 
 
 $menuItems = [
-    [
-        'label' => "Dashboard",
-        'url' => ['/site/index'],
-        'icon' => 'home',
-    ],
-    [
-        'label' => "Sozlamalar",
-        'icon' => 'cogs',
-        'items' => [
-            ['label' => 'Tarjimalar', 'url' => ['/translation-manager/default/index'], 'icon' => 'language'],
-        ]
-    ],
-    [
-        'label' => 'Keshni tozalash', 'url' => ['/site/cache-flush'], 'icon' => 'broom',
+        [
+                'label' => "Dashboard",
+                'url' => ['/site/index'],
+                'icon' => 'home',
+        ],
+        [
+                'label' => "Bannerlar",
+                'url' => ['/banner/index'],
+                'icon' => 'images',
+        ],
+        [
+                'label' => "Bizning jamoa",
+                'url' => ['/our-team/index'],
+                'icon' => 'users',
+        ],
+        [
+                'label' => "Xizmat sozlamalari",
+                'icon' => 'cogs',
+                'items' => [
+                        ['label' => 'Kategoriyalari', 'url' => ['/service-category/index'], 'icon' => 'circle'],
+                        ['label' => 'Xizmatlar', 'url' => ['/service/index'], 'icon' => 'circle'],
+                ]
+        ],
+        [
+                'label' => "Sozlamalar",
+                'icon' => 'cogs',
+                'items' => [
+                        ['label' => 'Tarjimalar', 'url' => ['/translation-manager/default/index'], 'icon' => 'language'],
+                ]
+        ],
+        [
+                'label' => 'Keshni tozalash', 'url' => ['/site/cache-flush'], 'icon' => 'broom',
 
-    ],
+        ],
 ];
 
 ?>
@@ -34,7 +55,7 @@ $menuItems = [
     <div class="sidebar">
         <nav class="mt-2">
             <?= Menu::widget([
-                'items' => $menuItems,
+                    'items' => $menuItems,
             ]) ?>
         </nav>
     </div>

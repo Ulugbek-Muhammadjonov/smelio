@@ -9,7 +9,6 @@ return [
     'languageParam' => 'lang',
     'languages' => [
         'uz' => "O'zbekcha",
-        'kr' => "Ўзбекча",
         'ru' => "Русский",
         'en' => "English",
     ],
