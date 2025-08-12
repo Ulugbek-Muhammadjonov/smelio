@@ -24,6 +24,11 @@ $menuItems = [
                 'icon' => 'users',
         ],
         [
+                'label' => "Bizning ishlarimiz",
+                'url' => ['/our-portfolio/index'],
+                'icon' => 'list',
+        ],
+        [
                 'label' => "Xizmat sozlamalari",
                 'icon' => 'cogs',
                 'items' => [
@@ -35,6 +40,8 @@ $menuItems = [
                 'label' => "Sozlamalar",
                 'icon' => 'cogs',
                 'items' => [
+                        ['label' => 'Sayt sozlamalari', 'url' => ['/setting/index'], 'icon' => 'circle'],
+                        ['label' => 'Meta sozlamalari', 'url' => ['/meta-setting/index'], 'icon' => 'code'],
                         ['label' => 'Tarjimalar', 'url' => ['/translation-manager/default/index'], 'icon' => 'language'],
                 ]
         ],
